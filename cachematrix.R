@@ -1,6 +1,6 @@
 ## A set of functions that create and cache the inverse of a matrix
 
-## Create a special matrix to be inversed
+## Create a special matrix to be inverted
 makeCacheMatrix <- function(m = matrix()) {   ## Although stylistically different than the assignment sample code, I prefer to use curly brackets for all functions.      
         ## First we intialize an object for the inverse matrix  
         im <- NULL
